@@ -1,0 +1,13 @@
+#image{
+    background-image: url('images/ps2.jpg');
+    mask-repeat: no-repeat;
+}
+h1.display-3{
+    font-family: poppins;
+    font-weight: 400;
+}
+.dp4{
+    font-family: poppins;
+    color: white;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 1) ;
+}
